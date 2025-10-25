@@ -2,6 +2,7 @@
 Designed an interactive Power BI dashboards sales dashboard to provide actionable insights for business stakeholders featuring dynamic Data visualizations for sales trends, product performance, and regional analysis.
 
 📊 Features
+
 KPI cards for sales metrics (Revenue, Profit Margin, Customer Retention, etc.)
 Category-wise analysis with filters
 Sales trend over time
@@ -9,6 +10,7 @@ Interactive slicers & drill-downs
 Conclusion summary
 
 🛠 Tools & Technologies
+
 Power BI
 Power Query
 DAX
